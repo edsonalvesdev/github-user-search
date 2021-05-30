@@ -1,0 +1,35 @@
+input {
+    background: #FFFFFF;
+    border: 1px solid #D9D9D9;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+.search-profile-container {
+    padding: 116px 0 0 90px;
+}
+
+.search-card {
+    padding-left: 94px;
+    width: 1251px;
+    height: 270px;
+    background: #E6F7FF;
+    border-radius: 16px;
+    margin-bottom: 54px;
+}
+
+.search-card-title {
+    position: absolute;   
+    font-weight: 500;
+    font-size: 38px;
+    line-height: 46px;
+    color: #262626;
+    margin-top: 66px;
+}
+
+.search-card-text {
+    height: 40px;
+    width: 676px;
+    margin-top: 124px;
+    margin-bottom: 24px;
+}

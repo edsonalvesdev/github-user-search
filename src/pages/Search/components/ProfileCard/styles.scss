@@ -1,0 +1,82 @@
+.profile-card {
+    position: absolute;
+    display: flex;
+    width: 1251px;
+    height: 387px;
+    background: #F5F5F5;
+    border-radius: 8px;
+}
+
+.profile-image {
+    position: absolute;
+    width: 284px;
+    height: 280px;
+    margin-left: 30px;
+    margin-top: 23px;
+}
+
+.profile-public-repositories {
+    position: absolute;
+    width: 163px;
+    margin-top: 23px;
+    margin-left: 358px;
+}
+
+.profile-followers {
+    position: absolute;
+    width: 118px;
+    margin-top: 23px;
+    margin-left: 529px;
+}
+
+.profile-following {
+    position: absolute;
+    width: 105px;
+    margin-top: 23px;
+    margin-left: 655px;
+}
+
+.profile-details {
+    position: absolute;
+    width: 870px;
+    height: 247px;
+    background: #FFFFFF;
+    border: 1px solid #D9D9D9;
+    box-sizing: border-box;
+    border-radius: 6px;
+    margin: 56px 23px 0 358px;
+
+    *{
+        margin-left: 14px;
+    }
+
+    input {
+        width: 839px;
+        height: 40px;
+        margin-bottom: 5px;
+        font-weight: bold;
+        font-size: 16px;
+        line-height: 24px;
+        display: flex;
+        align-items: center;
+        color: #737373;
+        padding-left: 10px;
+    }
+}
+
+.profile-title {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    color: #1890FF;
+    margin-top: 8px;
+    margin-bottom: 19px;
+}
+
+.view-profile {
+    position: absolute;
+    padding-top: 320px;
+    padding-left: 30px;
+}

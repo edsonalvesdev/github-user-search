@@ -1,0 +1,30 @@
+.home-container {
+    padding: 117px 0 0 120px;
+}
+
+.text-title {
+    width: 580px;
+    height: 128px;
+    
+    font-family: 'Red Hat Display';
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 64px;
+    
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.02em;
+    
+    color: #062847;
+}
+
+.text-subtitle {
+    width: 612px;
+    height: 216px;
+    align-content: center;
+    font-family: 'Red Hat Display';
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 36px;
+    color: #5A6774;
+}
